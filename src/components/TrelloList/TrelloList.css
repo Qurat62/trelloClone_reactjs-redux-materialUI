@@ -1,0 +1,33 @@
+
+
+.container{
+    background-color: blueviolet;
+    background-image: url("../../images/theme_2.jpg");
+    border: 1px solid groove;
+    border-radius: 10px;
+    width: 300px;
+    padding: 6px;
+    height: 100%;
+    margin: 8px 8px 8px 8px;
+    font-size: 12px;
+    color:wheat;
+
+}
+
+
+.titleContainer
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.btnColorWhite
+{
+    color:white !important;  
+}
+
+

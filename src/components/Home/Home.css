@@ -1,0 +1,57 @@
+
+
+body{
+    background-color: plum !important;
+  background-image: url("./../../images/bG_1.webp"); 
+   background-repeat: no-repeat;
+   background-size:100%;
+  
+
+}
+.menu_color
+{
+    background-color: blueviolet !important;
+    background-image: url("./../../images/theme_1.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    border-bottom: 2px solid darkslateblue;
+    
+}
+.heading
+{
+    color:whitesmoke !important;
+}
+.cardTextArea
+{
+overflow: hidden;
+min-width: 272px;
+min-height: 80px;
+padding: 6px 8px 2px;
+margin-top:10px;
+}
+.textBox
+{
+    resize:none;
+    border:none;
+    width:100%;
+    outline: none;
+}
+
+.buttonGroup
+{
+    display:flex;
+    align-items: right;
+    border-radius:3px;
+    height:30;
+    width: 272px;
+    padding-left:10;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 6px;
+}
+.listContainer
+{
+  
+    display: flex;
+    flex-direction: row;
+}
